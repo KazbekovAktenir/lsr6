@@ -1,0 +1,19 @@
+{
+  "products": [
+    {
+      "name": "a",
+      "img": "https://static.wikia.nocookie.net/despicableme/images/a/ac/BobYay.png/revision/latest?cb=20220129132453",
+      "id": 1
+    },
+    {
+      "name": "jhgfdfgh",
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Bob_the_builder.jpg/220px-Bob_the_builder.jpg",
+      "id": 2
+    },
+    {
+      "name": "aktenir",
+      "img": "https://static.wikia.nocookie.net/btb/images/c/cf/CGI_BOB.png/revision/latest/scale-to-width/360?cb=20221001033806",
+      "id": 3
+    }
+  ]
+}
